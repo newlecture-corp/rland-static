@@ -76,7 +76,7 @@
                     align-items: center;
 
                     &::before {
-                        mask-image: url(/image/icon/google.svg);
+                        mask-image: url(/icon/google.svg);
                     }
                 }
 

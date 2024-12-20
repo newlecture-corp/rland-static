@@ -146,7 +146,7 @@ main {
             }
 
             .n-icon\:heart:has(:checked)::before {
-                --icon: url(image/icon/heart_fill.svg);
+                --icon: url(./icon/heart_fill.svg);
                 background-color: red;
             }
 
